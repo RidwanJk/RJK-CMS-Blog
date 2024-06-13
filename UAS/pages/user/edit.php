@@ -122,7 +122,7 @@
                       <span class="submenu-title">Article</span>
                     </a>
 
-                    <a href="#" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark" data-bs-placement="right" data-bs-title="Settings">
+                    <a href="../category/" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark" data-bs-placement="right" data-bs-title="Settings">
                       <i class="bi bi-gear me-3"></i>
                       <span class="submenu-title">Category</span>
                     </a>

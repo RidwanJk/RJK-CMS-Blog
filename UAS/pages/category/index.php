@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Article | List</title>
+  <title>Category | List</title>
   <link rel="stylesheet" href="../../assets/css/main.min.css">
   <link rel="shortcut icon" href="../../assets/img/LOGO BULAT.png">
 

@@ -117,7 +117,7 @@
                       <span class="submenu-title">Dashboard</span>
                     </a>
 
-                    <a href="../article" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark" data-bs-placement="right" data-bs-title="Form">
+                    <a href="../article/" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark" data-bs-placement="right" data-bs-title="Form">
                       <i class="bi bi-input-cursor me-3"></i>
                       <span class="submenu-title">Article</span>
                     </a>
@@ -125,6 +125,11 @@
                     <a href="#" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark active" data-bs-placement="right" data-bs-title="Settings">
                       <i class="bi bi-gear me-3"></i>
                       <span class="submenu-title">Category</span>
+                    </a>
+
+                    <a href="../user/" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark" data-bs-placement="right" data-bs-title="Settings">
+                      <i class="bi bi-people me-3"></i>
+                      <span class="submenu-title">User</span>
                     </a>
 
                   </div>
