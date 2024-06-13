@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Article | Create</title>
+  <title>Category | Create</title>
   <link rel="stylesheet" href="../../assets/css/main.min.css">
   <link rel="shortcut icon" href="../../assets/img/LOGO BULAT.png">
 
@@ -119,14 +119,19 @@
                       <span class="submenu-title">Dashboard</span>
                     </a>
 
-                    <a href="#" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark active" data-bs-placement="right" data-bs-title="Form">
+                    <a href="../article/" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark" data-bs-placement="right" data-bs-title="Form">
                       <i class="bi bi-input-cursor me-3"></i>
                       <span class="submenu-title">Article</span>
                     </a>
 
-                    <a href="../../settings.php" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark" data-bs-placement="right" data-bs-title="Settings">
+                    <a href="#" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark active" data-bs-placement="right" data-bs-title="Settings">
                       <i class="bi bi-gear me-3"></i>
-                      <span class="submenu-title">Settings</span>
+                      <span class="submenu-title">Category</span>
+                    </a>
+
+                    <a href="../user/" class="list-group-item list-group-item-action border-0 mb-1 text-bg-dark" data-bs-placement="right" data-bs-title="Settings">
+                      <i class="bi bi-people me-3"></i>
+                      <span class="submenu-title">User</span>
                     </a>
 
                   </div>
@@ -187,8 +192,8 @@
           <div class="card-body">            
             <div class="mb-3">
               <label for="category" class="form-label">Category</label>
-              <input type="text" id="category" name="category">                
-            </div>
+              <input type="text" class="form-control" id="category" name="category">  
+            </div>              
             <div class="d-grid d-lg-block gap-2">
               <button type="submit" class="btn btn-primary">Save</button>
               <a href="../category" class="btn btn-secondary">Cancel</a>
